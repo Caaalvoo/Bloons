@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Death_Valley.png-401b34cb8a2ef8793464476922401730.stex"
+path="res://.import/Jordi_Pera_DartMonkey.png-d896ae51f428f6c0cec60b0423b200b3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Death_Valley.png"
-dest_files=[ "res://.import/Death_Valley.png-401b34cb8a2ef8793464476922401730.stex" ]
+source_file="res://Monkeys/Dart/Jordi_Pera_DartMonkey.png"
+dest_files=[ "res://.import/Jordi_Pera_DartMonkey.png-d896ae51f428f6c0cec60b0423b200b3.stex" ]
 
 [params]
 

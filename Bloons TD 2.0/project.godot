@@ -12,7 +12,6 @@ config_version=4
 
 config/name="Bloons TD 2.0"
 run/main_scene="res://joc.tscn"
-config/icon="res://icon.png"
 
 [display]
 
